@@ -1,7 +1,7 @@
 # Indonesian Tech Content Creator Skill
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Indonesian Tech Content Creator Skill Banner" width="100%"/>
+  <img src="assets/banner.png" alt="Indonesian Tech Content Creator Skill Banner" width="100%"/>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,7 @@
 
 [![Support](https://img.shields.io/badge/Support-Sociabuzz-FF6B35.svg)](https://sociabuzz.com/zhaasyft/tribe)
 
-Agent skill untuk developer Indonesia yang mau jadi tech content creator. Full workflow: ideation → scripting → optimization → scheduling → monetization.
+Agent skill for Indonesian developers who want to become tech content creators. Full workflow: ideation → scripting → optimization → scheduling → monetization.
 
 **Full open source. MIT License. Free to use, modify, and distribute.**
 
@@ -21,11 +21,11 @@ Agent skill untuk developer Indonesia yang mau jadi tech content creator. Full w
 
 ## ☕ Support This Project
 
-Kalau skill ini bermanfaat untuk kamu, kamu bisa support development-nya di:
+If this skill is useful for you, you can support its development at:
 
 **👉 [Sociabuzz Tribe](https://sociabuzz.com/zhaasyft/tribe)**
 
-Setiap dukungan sangat berarti untuk menjaga project ini tetap aktif dan berkembang! 🙏
+Every support means a lot to keep this project active and growing! 🙏
 
 ---
 
@@ -138,27 +138,27 @@ npx skills add ezhasyafaat/indonesian-tech-creator-skill --skill '*' --agent all
 ```
 /indonesian-tech-creator ideation
 
-Buatkan 10 ide konten tech untuk developer Indonesia minggu ini.
-Target audience: junior developer yang baru mulai karir.
+Generate 10 tech content ideas for Indonesian developers this week.
+Target audience: junior developers just starting their careers.
 Focus: Web development.
 ```
 
 **Output:**
 ```
-📌 10 IDE KONTEN TECH MINGGU INI
-Target: Junior Developer Indonesia | Focus: Web Dev
+📌 10 TECH CONTENT IDEAS THIS WEEK
+Target: Indonesian Junior Developers | Focus: Web Dev
 
-1. "5 VS Code Extensions yang Wajib Dipakai Developer Indonesia"
-   - Format: TikTok (30 detik) + Blog
-   - Hook: "Kamu masih coding tanpa extension ini? Rugi!"
-   - Why trending: Developer tools selalu laku
-   - Unique angle: Review dari perspektif developer Indonesia
+1. "5 VS Code Extensions Every Indonesian Developer Must Use"
+   - Format: TikTok (30 seconds) + Blog
+   - Hook: "Still coding without these extensions? You're missing out!"
+   - Why trending: Developer tools always perform well
+   - Unique angle: Review from Indonesian developer perspective
 
-2. "Cara Deploy Website Pertama Kamu (Gratis!)"
-   - Format: YouTube (8 menit)
-   - Hook: "Deploy website pertama kamu dalam 5 menit, gratis!"
-   - Why trending: Banyak junior dev struggle dengan deployment
-   - Unique angle: Pakai Vercel + domain .my.id yang murah
+2. "How to Deploy Your First Website (Free!)"
+   - Format: YouTube (8 minutes)
+   - Hook: "Deploy your first website in 5 minutes, for free!"
+   - Why trending: Many junior devs struggle with deployment
+   - Unique angle: Use Vercel + affordable .my.id domain
 
 ... [8 more ideas]
 ```
@@ -168,24 +168,24 @@ Target: Junior Developer Indonesia | Focus: Web Dev
 ```
 /indonesian-tech-creator script
 
-Buatkan script TikTok 45 detik tentang "Git Tips yang Senior Dev Pakai".
-Style: Casual, seperti teman cerita.
-Target: Junior developer Indonesia.
+Create a 45-second TikTok script about "Git Tips That Senior Devs Use".
+Style: Casual, like talking to a friend.
+Target: Indonesian junior developers.
 ```
 
 **Output:**
 ```
-🎬 TIKTOK SCRIPT: Git Tips Senior Dev
+🎬 TIKTOK SCRIPT: Git Tips Senior Devs Use
 Duration: 45 seconds | Style: Casual Indonesian
 
-[0-3 detik] HOOK
-Visual: Kamu close-up ke kamera, ekspresi serius
-Audio: "Kamu masih git add . setiap file? Senior dev nggak pernah gitu."
+[0-3 seconds] HOOK
+Visual: Close-up to camera, serious expression
+Audio: "Still doing git add . for every file? Senior devs never do that."
 Text overlay: "STOP git add ."
 
-[3-15 detik] TIP 1
+[3-15 seconds] TIP 1
 Visual: Screen recording terminal
-Audio: "Pakai git add -p. Ini interactive staging..."
+Audio: "Use git add -p. This is interactive staging..."
 Text overlay: "git add -p = selective staging"
 
 ... [full script with timing]
@@ -193,8 +193,8 @@ Text overlay: "git add -p = selective staging"
 ---
 📝 NOTES:
 - Background music: Lo-fi beat, volume 20%
-- Caption: "Git tips yang senior dev pakai 🔥 #DeveloperIndonesia #Git"
-- Post time: Selasa 19:00 WIB
+- Caption: "Git tips that senior devs use 🔥 #DeveloperIndonesia #Git"
+- Post time: Tuesday 19:00 WIB
 ```
 
 ### 3. Title Optimization
@@ -202,7 +202,7 @@ Text overlay: "git add -p = selective staging"
 ```
 /indonesian-tech-creator optimize-title
 
-Topik: "Tutorial Deploy App Node.js ke Server Indonesia"
+Topic: "Tutorial Deploying Node.js App to Indonesian Server"
 Platform: YouTube
 Target views: 10K+
 ```
@@ -211,15 +211,15 @@ Target views: 10K+
 ```
 🎯 YOUTUBE TITLE OPTIMIZATION
 
-Topic: Deploy Node.js ke Server Indonesia
+Topic: Deploy Node.js to Indonesian Server
 
 TOP 5 TITLES (ranked by CTR potential):
 
-1. "Deploy Node.js ke Server Indonesia Cuma 50rb/Bulan! (Tutorial Lengkap)"
+1. "Deploy Node.js to Indonesian Server Only 50K/Month! (Complete Tutorial)"
    - Score: 9.2/10
-   - Why: Specific price point + "tutorial lengkap" = trust
+   - Why: Specific price point + "complete tutorial" = trust
 
-2. "Stop Pakai AWS! Deploy Node.js di Server Indonesia Lebih Murah 80%"
+2. "Stop Using AWS! Deploy Node.js on Indonesian Server 80% Cheaper"
    - Score: 8.8/10
    - Why: Controversial hook + specific comparison
 
@@ -228,7 +228,7 @@ TOP 5 TITLES (ranked by CTR potential):
 ---
 📝 RECOMMENDED:
 Title: #1 (highest CTR potential)
-Thumbnail text: "DEPLOY NODE.JS\nCUMA 50RB!"
+Thumbnail text: "DEPLOY NODE.JS\nONLY 50K!"
 Tags: node.js, deploy, server indonesia, tutorial, murah
 ```
 
