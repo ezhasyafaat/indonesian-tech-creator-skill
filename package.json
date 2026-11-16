@@ -1,0 +1,48 @@
+{
+  "name": "indonesian-tech-creator-skill",
+  "version": "1.0.0",
+  "description": "Agent skill untuk developer Indonesia yang mau jadi tech content creator. Full workflow: ideation, scripting, optimization, scheduling, dan monetization.",
+  "keywords": [
+    "agent-skill",
+    "claude-code",
+    "codex",
+    "cursor",
+    "opencode",
+    "gemini-cli",
+    "github-copilot",
+    "hermes-agent",
+    "content-creation",
+    "indonesia",
+    "tech",
+    "developer",
+    "social-media",
+    "youtube",
+    "tiktok",
+    "instagram",
+    "blogging",
+    "monetization"
+  ],
+  "author": "Ezha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezhasyafaat/indonesian-tech-creator-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ezhasyafaat/indonesian-tech-creator-skill/issues"
+  },
+  "homepage": "https://github.com/ezhasyafaat/indonesian-tech-creator-skill#readme",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "CONTRIBUTORS.md",
+    "LICENSE",
+    "templates/",
+    "workflows/",
+    "references/",
+    "assets/"
+  ],
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  }
+}
